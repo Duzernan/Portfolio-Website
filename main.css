@@ -2,6 +2,38 @@
     background-color: beige;
 }
 
+#palo-idle-1 {
+    width: 40px;
+    height: 40px;
+    float: left;
+    padding-left: 10px;
+    padding-top: 10px;
+
+}
+
+#palo-idle-2 {
+    width: 40px;
+    height: 40px;
+    float: right;
+    padding-right: 10px;
+    padding-top: 10px;
+
+}
+
+#palm-tree-right {
+    float: right;
+    width: 400px;
+    height: 1200px;
+
+}
+
+#palm-tree-left {
+    float: left;
+    width: 400px;
+    height: 1200px;
+
+}
+
 #title {
     border: 3px dotted black;
     margin-left: 35%;
@@ -17,14 +49,19 @@
 }
 
 #Button-Home {
-    color: inherit;
     display: inline-block;
     border: 4px solid #bba197;
     background-color: beige;
+    color: black;
     width: 50px;
     text-align: center;
     padding-top: 4px;
     padding-bottom: 3px;
+
+}
+
+#Button-Home a {
+    color: black;
 
 }
 
@@ -42,6 +79,11 @@
 
 }
 
+#Button-Curriculum-Vitae a {
+    color: black;
+
+}
+
 
 #Button-Projects {
     display: inline-block;
@@ -55,12 +97,16 @@
 
 }
 
+#Button-Projects a {
+    color: black;
+
+}
+
 #about-title {
     display: inline-block;
     border: 3px dotted black;
     text-align: center;
-    margin-left: 45%;
-    margin-right: 40%;
+    margin-left: 21%;
     margin-top: 10%;
     padding-left: 30px;
     padding-right: 30px;
@@ -69,23 +115,13 @@
 
 #about-writing {
     border: 4px solid #bba197;
-    display: inline-block;
+    display: block;
     text-align: center;
     margin-left: 25%;
-    margin-right: 25%;
+    width: 800px;
     margin-top: 2%;
     padding-left: 20px;
     padding-right: 20px;
 
 }
 
-#middle-box {
-    display: inline-block;
-    border: 2px solid black;
-    /* margin-left: 20%; */
-    padding-left: 2px;
-    padding-right: 2px;
-    padding-top: 500px;
-    padding-bottom: 500px;
-
-}
