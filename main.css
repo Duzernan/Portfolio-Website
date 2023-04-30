@@ -1,0 +1,91 @@
+* {
+    background-color: beige;
+}
+
+#title {
+    border: 3px dotted black;
+    margin-left: 35%;
+    margin-right: 35%;
+    text-align: center;
+
+}
+
+#buttons {
+    margin-left: 40%;
+    margin-top: 1%;
+    
+}
+
+#Button-Home {
+    color: inherit;
+    display: inline-block;
+    border: 4px solid #bba197;
+    background-color: beige;
+    width: 50px;
+    text-align: center;
+    padding-top: 4px;
+    padding-bottom: 3px;
+
+}
+
+#Button-Curriculum-Vitae {
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    border: 4px solid #bba197;
+    background-color: beige;
+    width: 135px;
+    text-align: center;
+    padding-top: 4px;
+    padding-bottom: 3px;
+    margin-left: 2%;
+
+}
+
+
+#Button-Projects {
+    display: inline-block;
+    border: 4px solid #bba197;
+    background-color: beige;
+    width: 70px;
+    text-align: center;
+    padding-top: 4px;
+    padding-bottom: 3px;
+    margin-left: 2%;
+
+}
+
+#about-title {
+    display: inline-block;
+    border: 3px dotted black;
+    text-align: center;
+    margin-left: 45%;
+    margin-right: 40%;
+    margin-top: 10%;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+
+#about-writing {
+    border: 4px solid #bba197;
+    display: inline-block;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 2%;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+#middle-box {
+    display: inline-block;
+    border: 2px solid black;
+    /* margin-left: 20%; */
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 500px;
+    padding-bottom: 500px;
+
+}
